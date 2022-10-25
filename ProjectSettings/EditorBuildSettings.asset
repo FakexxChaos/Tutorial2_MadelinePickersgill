@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Tutorial2_MadelinePickersgill.unity
     guid: 7c7a85568af37ac4cb6d0b2b733cc74b
+  - enabled: 1
+    path: Assets/Challenge2_MadelinePickersgill.unity
+    guid: 5cc1f7d30f95cce489dd29cee367f735
   m_configObjects: {}
